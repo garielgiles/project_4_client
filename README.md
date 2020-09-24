@@ -4,7 +4,7 @@
 
 [Rick and Morty App](https://rick-and-mortyapp.herokuapp.com/)
 
-###Purpose
+### Purpose
 The purpose of this site is to allow users to keep up with all characters to be created on the hit show, Rick and Morty. Users can also add new characters as the show progresses.
 
 ### Tech-Stack
