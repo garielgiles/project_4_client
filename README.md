@@ -7,7 +7,7 @@
 ###Purpose
 The purpose of this site is to allow users to keep up with all characters to be created on the hit show, Rick and Morty. Users can also add new characters as the show progresses.
 
-###Tech-Stack
+### Tech-Stack
 This site was created using:
 - NodeJS
 - ReactJS
@@ -16,5 +16,5 @@ This site was created using:
 - PostgreSQL
 
 
-###Future
+### Future
 I would like to add professional styling to this site and eventually prevent users from creating new characters, but instead being able to search the character.
