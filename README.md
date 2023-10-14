@@ -15,6 +15,3 @@ This site was created using:
 - ExpressJS
 - PostgreSQL
 #### [Backend](https://github.com/ggiles4/project4)
-
-### Future
-I would like to add professional styling to this site and eventually prevent users from creating new characters, but instead being able to search the character.
